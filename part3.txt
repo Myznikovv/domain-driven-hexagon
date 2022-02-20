@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 next Branch
 gjnlw;jlnvjlw
+=======
+First editing
+Second editing
+Second editing
+
+>>>>>>> branch1
